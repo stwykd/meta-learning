@@ -1,0 +1,25 @@
+# Datasets are stored in data/ folders
+data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# TensorBoard default directory
+logs/
+
+# Torch
+*.pt
+*.pth
